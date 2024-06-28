@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:700|Inter:400');
+@import "./src/assets/hamburger.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
