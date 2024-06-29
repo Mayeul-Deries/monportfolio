@@ -29,7 +29,7 @@
         <v-btn :prepend-icon="mdiEmail" variant="outlined" @click="openLink('mailto:mayeul.deries@gmail.com')">
           <span>Email</span>
         </v-btn>
-        <v-btn :prepend-icon="mdiFile" variant="outlined" @click="openPDF('portfolio/src/assets/CV.pdf')">
+        <v-btn :prepend-icon="mdiFile" variant="outlined" @click="openPDF('/mon-portfolio/CV.pdf')">
           <span>Mon CV</span>
         </v-btn>
       </div>
